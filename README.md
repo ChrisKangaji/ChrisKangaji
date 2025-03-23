@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏾 Hi, I'm Chris:
 I am a Developer based in Stockholm, Sweden. I am passionate about coding and I love to learn new things.
 
 
